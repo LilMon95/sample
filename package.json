@@ -1,6 +1,9 @@
 {
     "name": "sample-app",
     "main": "index.ts",
+    "scripts": {
+        "start": "node index.js"
+    },
     "devDependencies": {
     },
     "dependencies": {
