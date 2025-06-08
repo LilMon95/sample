@@ -1,0 +1,8 @@
+{
+    "name": "sample-app",
+    "main": "index.ts",
+    "devDependencies": {
+    },
+    "dependencies": {
+    }
+}
