@@ -2,7 +2,7 @@
     "name": "sample-app",
     "main": "index.ts",
     "scripts": {
-        "start": "node index.js"
+        "start": "node index.ts"
     },
     "devDependencies": {
     },
